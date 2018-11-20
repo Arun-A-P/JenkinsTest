@@ -10,6 +10,6 @@ Window {
     Text{
         anchors.centerIn: parent
         color: "Black"
-        text: "Jenkins Test 1"
+        text: "Jenkins Test 3"
     }
 }
